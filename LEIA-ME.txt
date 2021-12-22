@@ -1,0 +1,27 @@
+-> Primeiro clique com o botão direito no arquivo bilzineselfbot
+
+-> Clique em editar.
+
+-> Depois, no bloco de notas, clique em editar e logo em seguida clique em localizar...
+
+-> Selecione abaixo.
+
+-> Pesquise por bielzinbot
+
+-> Apague o texto entre as aspas ''bielzinbot'' 
+
+-> logo em seguida cole sua token.
+
+-> Depois disso clique em arquivo e logo em seguida em salvar.
+
+-> Agora saia do arquivo e clique no arquivo install
+
+-> Após terminar clique no arquivo start
+
+Depois disso use, enjoe. 
+
+-> Nodejs: https://nodejs.org/en/download/
+
+-> O node é necessario para o selfbot funcionar.
+
+-> Meu servidor: https://discord.gg/zzREGyU
